@@ -1,0 +1,20 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "javascript and react design patterns",
+  "main": "start.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcabhish/javascript-patterns.git"
+  },
+  "author": "Abhishek KC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kcabhish/javascript-patterns/issues"
+  },
+  "homepage": "https://github.com/kcabhish/javascript-patterns#readme"
+}
